@@ -1,6 +1,6 @@
 Title: Financial Performance Analysis (2009 - 2024)
-Description:
-This Power BI report presents a comprehensive financial performance analysis for the period 2009 - 2024. The dashboard provides key financial metrics, interactive visualizations, and insights into the company's profitability, efficiency, and market position.
+
+Description: This Power BI report presents a comprehensive financial performance analysis for the period 2009 - 2024. The dashboard provides key financial metrics, interactive visualizations, and insights into the company's profitability, efficiency, and market position.
 
 Key Features:
 📊 Return Metrics: ROA (Return on Assets), ROE (Return on Equity)
