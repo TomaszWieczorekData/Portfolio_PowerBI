@@ -10,3 +10,4 @@ Key Features:
 📡 Market Share: Comparison between Android and iPhone
 💵 Cash Flow & Debt Analysis: Trends in cash flow, long-term debt, and available cash
 👥 Workforce Statistics: Total number of employees
+![image](https://github.com/user-attachments/assets/2e2d72ce-3950-4cbf-8bad-c43f249fe1b1)
