@@ -11,3 +11,5 @@ This Power BI dashboard provides an interactive financial analysis of a company'
 - **Revenue Growth**: Historical and projected revenue trends.
 - **Cash Flow & Debt Analysis**: Breakdown of cash flow, cash on hand, and long-term debt.
 - **Year Selection**: Interactive buttons to filter data by specific years.
+
+![image](https://github.com/user-attachments/assets/d67735cb-2dd6-4b4d-9171-1bc17fa2234c)
