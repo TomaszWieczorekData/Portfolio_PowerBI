@@ -1,48 +1,59 @@
-# 📊 Portfolio Power BI
+📊 Data Analytics Portfolio
+Welcome to my Data Analytics Portfolio! 📈 Here, you'll find my analytical projects, reports, and data visualizations created using Power BI, SQL, Excel, and Tableau.
 
-Witaj w moim portfolio Power BI! 📈 Tutaj znajdziesz moje projekty analityczne, raporty oraz wizualizacje danych przygotowane w Power BI.
+🔥 About Me
+I am passionate about data analysis, finance, and visualization. My expertise includes working with Power BI, SQL, Excel, and Tableau, as well as using Python for data processing. This repository showcases my best analytical projects, highlighting my ability to process and present data effectively.
 
-## 🔥 O mnie
-Jestem pasjonatem analizy danych, finansów i wizualizacji. Moje umiejętności obejmują pracę w Power BI, SQL, Excel oraz Python. W tym repozytorium prezentuję swoje najlepsze projekty analityczne, które pokazują moje umiejętności w zakresie przetwarzania i prezentacji danych.
+📂 Repository Structure
+The structure of this repository will evolve as I add more projects. Planned organization:
 
-## 📂 Struktura repozytorium
-Na chwilę obecną struktura repozytorium będzie ewoluować w miarę dodawania kolejnych projektów. Planowana organizacja plików:
-```
-Portfolio_PowerBI/
-│── Projekty/
-│   ├── Projekt_1/
-│   │   ├── raport.pbix  # Plik raportu Power BI
-│   │   ├── dataset.xlsx  # Zbiór danych użyty do analizy
-│   │   ├── opis.md  # Szczegółowy opis projektu
-│   ├── Projekt_2/
-│   │   ├── raport.pbix
-│   │   ├── dataset.csv
-│   │   ├── opis.md
-│── Zrzuty_ekranu/
-│   ├── projekt_1.png  # Wizualizacje raportów
-│   ├── projekt_2.png
+bash
+Kopiuj
+Edytuj
+Data_Analytics_Portfolio/
+│── Projects/
+│   ├── Project_1/
+│   │   ├── report.pbix    # Power BI report file
+│   │   ├── dataset.xlsx   # Dataset used for analysis
+│   │   ├── description.md # Detailed project description
+│   ├── Project_2/
+│   │   ├── report.twbx    # Tableau workbook
+│   │   ├── dataset.csv    
+│   │   ├── description.md 
+│── Screenshots/
+│   ├── project_1.png      # Report visualizations
+│   ├── project_2.png
 │── README.md
-```
+📌 Featured Projects
+🔹 Power BI Dashboards
+🔹 SQL Data Analysis
+🔹 Excel Data Modeling
+🔹 Tableau Visualizations
 
-## 📌 Projekty
+⚙️ How to Open Reports?
+Download the .pbix file (Power BI) or .twbx file (Tableau) from the project folder.
 
+Open it in Power BI Desktop or Tableau Desktop.
 
-## ⚙️ Jak otworzyć raporty?
-1. Pobierz plik `.pbix` z katalogu danego projektu.
-2. Otwórz go w Power BI Desktop.
-3. Przeglądaj interaktywne raporty i analizy.
+Explore interactive reports and insights.
 
-## 🛠 Technologie
-- **Power BI** – Tworzenie raportów i dashboardów
-- **DAX** – Modelowanie i analizy danych
-- **SQL** – Pobieranie i przetwarzanie danych
-- **Excel** – Przetwarzanie i czyszczenie danych
+🛠 Technologies
+Power BI – Data visualization and reporting
 
-## 📈 Plany na przyszłość
-🔹 Dodanie kolejnych analiz i raportów.
+DAX – Data modeling and calculations
 
-## 📩 Kontakt
-Jeśli masz pytania lub chcesz porozmawiać o analizie danych, skontaktuj się ze mną na **www.linkedin.com/in/
-tomasz-wieczorek-** lub napisz na **tomasz.wieczorek02@gmail.com**. 
+SQL – Data extraction and transformation
 
-🚀 **Dzięki za odwiedzenie mojego portfolio!**
+Excel – Data processing and cleaning
+
+Tableau – Interactive visualizations and dashboards
+
+🚀 Future Plans
+🔹 Expanding the portfolio with more analyses and reports.
+🔹 Exploring advanced data modeling techniques.
+🔹 Integrating Python for deeper analytical insights.
+
+📩 Contact
+If you have any questions or want to discuss data analytics, feel free to connect with me on LinkedIn or email me at tomasz.wieczorek02@gmail.com.
+
+Thanks for visiting my portfolio! 🚀
