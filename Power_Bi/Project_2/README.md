@@ -11,4 +11,5 @@ This Power BI dashboard provides a comprehensive analysis of sales revenue, cost
 - **Market Share Insights**: Distribution of stores with product availability across different city sizes.
 - **Gross Margin Analysis**: Calculation of gross margin percentage (67.52% in this sample).
 
-## 📂 Repository Structure
+![image](https://github.com/user-attachments/assets/1b546d2b-73c0-40b6-bdcd-d400fc01c389)
+
