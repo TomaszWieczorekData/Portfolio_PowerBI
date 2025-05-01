@@ -44,9 +44,14 @@ Both results are presented as infographics in the visuals below.
 
 ## 🖼️ Visuals
 
-- `Top Countries by All-Around Index`  
-- `Top 10 All-Around International Players`  
-- SQL query graphics (see below)
+- `Top Countries by All-Around Index`
+
+![Colorful Minimalist Linear Steps Circular Diagram (6)](https://github.com/user-attachments/assets/54182c9f-ffda-4685-8b29-3f93c45f9ae0)
+
+- `Top 10 All-Around International Players`
+
+![Colorful Minimalist Linear Steps Circular Diagram (4)](https://github.com/user-attachments/assets/6cce7c61-4ae2-4ac5-9426-2701e1b653e8)
+
 
 ---
 
