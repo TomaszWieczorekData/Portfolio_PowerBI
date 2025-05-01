@@ -49,7 +49,7 @@ Data_Analytics_Portfolio/
 - 🔹 Integrating Python for deeper analytical insights.  
 
 ## 📩 Contact
-If you have any questions or want to discuss data analytics, feel free to connect with me on [LinkedIn profile](https://www.linkedin.com/in/tomasz-wieczorek) or email me at **tomasz.wieczorek02@gmail.com**.
+If you have any questions or want to discuss data analytics, feel free to connect with me on [LinkedIn profile](www.linkedin.com/in/tomasz-wieczorek-) or email me at **tomasz.wieczorek02@gmail.com**.
 
 Thanks for visiting my portfolio! 🚀
 
