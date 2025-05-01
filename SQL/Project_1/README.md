@@ -2,6 +2,8 @@
 
 This project combines sports analytics and SQL to explore how the **age at which NBA players debut** correlates with the **length of their professional careers**.
 
+![ChatGPT Image 30 kwi 2025, 22_05_57](https://github.com/user-attachments/assets/38656053-6595-43db-85c1-59c77a3dc9f1)
+
 ---
 
 ## 📌 Objective
@@ -19,7 +21,6 @@ To determine whether players who debut at a younger age tend to have longer care
 
 ## 🛠️ Tools & Techniques
 - **SQL (Common Table Expressions)** – for structured and readable querying  
-- **Data Cleaning** – handled missing values and inconsistencies  
 - **Visualization** – created a dark-themed visual package including:  
   - SQL query visualization  
   - Result table (debut age vs avg. career length)  
