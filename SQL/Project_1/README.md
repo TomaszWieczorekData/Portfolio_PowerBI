@@ -37,21 +37,17 @@ Players who debut at **19 years old** have the **longest average careers** (~8 s
 - Helps forecast **player development potential**  
 - Adds value to **data-driven team strategy** in sports management
 
----
-
-## 📁 Files & Assets
-- `nba_debut_age_analysis.sql` – SQL script with full query logic  
-- `visuals/` – PNG files with SQL code, result table, and NBA-branded graphics  
-- `README.md` – Project summary and context
 
 ---
 
 ## 🖼️ Visuals
 
-![SQL Query](visuals/sql_code_with_nba_logo_final.png)  
+![sql_code_with_nba_logo_final](https://github.com/user-attachments/assets/e09c3eed-9e5b-4194-b83c-318989d54534)
+
 *Figure 1: Full SQL query using CTEs*  
 
-![Result Table](visuals/debut_age_table_corrected.png)  
+![ChatGPT Image 30 kwi 2025, 22_26_20](https://github.com/user-attachments/assets/9985351b-2a2a-4fea-81c9-1c47d3d26bd8)
+
 *Figure 2: Career length vs debut age*  
 
 ---
