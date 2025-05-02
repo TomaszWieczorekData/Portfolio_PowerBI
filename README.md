@@ -1,52 +1,32 @@
 # 📊 Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! 📈 Here, you'll find my analytical projects, reports, and data visualizations created using Power BI, SQL, Excel, and Tableau.
+Welcome to my Data Analytics Portfolio! 📈  
+Here you'll find selected projects that combine data analysis, business insight, and clear visual storytelling — created using tools like **Power BI**, **SQL**, **Excel**, **Tableau**, and occasionally **Python**.
 
 ## 🔥 About Me
-I am passionate about data analysis, finance, and visualization. My expertise includes working with Power BI, SQL, Excel, and Tableau, as well as using Python for data processing. This repository showcases my best analytical projects, highlighting my ability to process and present data effectively.
 
-## 📂 Repository Structure
-The structure of this repository will evolve as I add more projects. Planned organization:
+I'm passionate about turning raw data into meaningful insights.  
+My experience spans across:
+- data visualization and dashboarding (Power BI, Tableau)
+- data analysis and modeling (SQL, Excel)
+- data processing and automation (Python)
 
-```
-Data_Analytics_Portfolio/
-│── Projects/
-│   ├── Project_1/
-│   │   ├── report.pbix    # Power BI report file
-│   │   ├── dataset.xlsx   # Dataset used for analysis
-│   │   ├── description.md # Detailed project description
-│   ├── Project_2/
-│   │   ├── report.twbx    # Tableau workbook
-│   │   ├── dataset.csv    
-│   │   ├── description.md 
-│── Screenshots/
-│   ├── project_1.png      # Report visualizations
-│   ├── project_2.png
-│── README.md
-```
+I enjoy exploring topics related to **business performance**, **sports analytics**, and **financial modeling**, using real datasets and practical tools.
 
-## 📌 Featured Projects
-- 🔹 Power BI Dashboards  
-- 🔹 SQL Data Analysis  
-- 🔹 Excel Data Modeling  
-- 🔹 Tableau Visualizations  
+## 📌 What You'll Find Here
 
-## ⚙️ How to Open Reports?
-- Download the `.pbix` file (Power BI) or `.twbx` file (Tableau) from the project folder.  
-- Open it in Power BI Desktop or Tableau Desktop.  
-- Explore interactive reports and insights.  
+🟦 Power BI dashboards with interactive KPIs  
+🟨 SQL-based exploratory and business analyses  
+🟩 Excel data models and reporting automation  
+🟥 Tableau visualizations for storytelling  
+⚪ Thematic mini-projects — from NBA to sales trends
 
-## 🛠 Technologies
-- **Power BI** – Data visualization and reporting  
-- **DAX** – Data modeling and calculations  
-- **SQL** – Data extraction and transformation  
-- **Excel** – Data processing and cleaning  
-- **Tableau** – Interactive visualizations and dashboards  
+## 🚀 What's Next?
 
-## 🚀 Future Plans
-- 🔹 Expanding the portfolio with more analyses and reports.  
-- 🔹 Exploring advanced data modeling techniques.  
-- 🔹 Integrating Python for deeper analytical insights.  
+I'm continuously developing this portfolio by:
+- adding new data-driven projects and case studies  
+- exploring advanced SQL techniques and predictive analysis  
+- combining multiple tools for end-to-end analytical workflows
 
 ## 📩 Contact
 If you have any questions or want to discuss data analytics, feel free to connect with me on [My LinkedIn profile](https://www.linkedin.com/in/tomasz-wieczorek1) or email me at **tomasz.wieczorek02@gmail.com**.
